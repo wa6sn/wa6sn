@@ -1,3 +1,5 @@
+$ whoami
+
 |key|value|comment|
 |---|-----|-------|
 |HN|わらしな (wrsn0)||
