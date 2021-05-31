@@ -15,4 +15,3 @@
 |scrapbox|https://scrapbox.io/wrsn-memo/|とりとめのないメモ|
 |Blog|https://wrsn0.hatenablog.com/|まとまったメモ|
 |AtCoder|https://atcoder.jp/users/wrsn|脳トレとしてやっています|
-|zenn|https://zenn.dev/wrsn|技術的なメモ|
