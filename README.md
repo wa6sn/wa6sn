@@ -11,7 +11,5 @@
 |key|value|comment|
 |---|-----|-------|
 |HN|わらしな (wa6sn)||
-|Twitter|[@wrsn0](https://twitter.com/wrsn0)|つぶやきます|
-|scrapbox|https://scrapbox.io/wrsn-zatsu/|とりとめのないメモ|
+|Twitter|[@wa6sn](https://twitter.com/wa6sn)|つぶやきます|
 |Blog|https://wrsn0.hatenablog.com/|まとまったメモ|
-|AtCoder|https://atcoder.jp/users/wrsn|脳トレとしてやっています|
