@@ -10,7 +10,7 @@
 
 |key|value|comment|
 |---|-----|-------|
-|HN|わらしな (wrsn0)||
+|HN|わらしな (wa6sn)||
 |Twitter|[@wrsn0](https://twitter.com/wrsn0)|つぶやきます|
 |scrapbox|https://scrapbox.io/wrsn-zatsu/|とりとめのないメモ|
 |Blog|https://wrsn0.hatenablog.com/|まとまったメモ|
