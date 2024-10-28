@@ -13,3 +13,4 @@
 |HN|わらしな (wa6sn)||
 |Twitter|[@wa6sn](https://twitter.com/wa6sn)|つぶやきます|
 |Blog|https://wrsn0.hatenablog.com/|まとまったメモ|
+|Speaker Deck|https://speakerdeck.com/wa6sn|発表したやつの一部|
